@@ -1,0 +1,103 @@
+body.background
+{
+	background-color: #77AA44;
+}
+
+h3.header
+{
+	text-align: center;
+	background-color: #c6a5d1;
+	border-color: #00aa00;
+	border: 7px solid #efe226;
+    border-radius: 5px;
+    width: 200px;
+    height: auto;
+    margin: auto;
+}
+
+ul
+{
+	text-align: center;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
+li
+{
+	background-color: #ddafed;
+	text-align: center;
+    width: 70px;
+    height: 25px;
+    margin: auto;
+    padding: 2px;
+    display: inline;
+	border-style: dotted;
+	border-color: red;
+
+}
+
+div 
+{
+    background-color: lightgrey;
+    width: 430px;
+    height: auto;
+    border-top: 70px solid #add3cf;
+    border-bottom: 70px solid #add3cf;
+    border-right: 40px solid #add3cf;
+    border-left: 40px solid #add3cf;
+    padding: 5px;
+    margin: auto;
+
+}
+
+p.para
+{
+    text-shadow: .5px .7px;
+	text-align: center;
+    font-style: italic;
+}
+
+h2
+{
+	text-align: center;
+	margin: auto;
+	font-size: 130%;
+}
+
+p:hover 
+{
+    background-color: red;
+}
+
+div:hover 
+{
+    background-color: red;
+    width: 430px;
+    height: auto;
+    border-top: 70px solid red;
+    border-bottom: 70px solid red;
+    border-right: 40px solid red;
+    border-left: 40px solid red;
+    padding: 5px;
+    margin: auto;
+
+
+}
+
+a:hover
+{
+	text-align: center;
+	margin: auto;
+	font-size: 100%;
+	color: orange;
+}
+
+
+
+
+
+
+
+
+
+
