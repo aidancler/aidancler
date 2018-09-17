@@ -1,0 +1,82 @@
+table.main
+{
+	table-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr,td.most 
+{
+	border:2px solid black;
+    text-align: center;
+    margin-left:auto;
+	margin-right:auto;
+	height: 100px;
+	font-style: normal;
+}
+
+tr,th.few 
+{
+    text-align: center;
+    margin:auto;
+	height: 40px;
+	border-top: 2px solid black;
+	border-bottom: 8px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	font-style: oblique;	
+
+}
+
+ol.center
+{
+    text-align: left;
+}
+
+ol.fruit
+{
+	border:3px solid blue;
+    text-align: center;
+    margin:auto;
+	list-style-type: upper-roman;
+	background-color: #F5A540;
+    border-style: dotted;
+}
+
+ul.paradise
+{
+	border:8px #007B00;
+    text-align: center;
+    margin:auto;
+	list-style-type: circle;
+	background-color: #ED3833 ;
+    border-style: dashed;
+    border-width: 4px;
+    text-align: left;
+}
+
+div
+{
+	margin-left:auto;
+	margin-right:auto;
+    border: 6px #5BF122;
+    border-style: ridge;
+    border-width: 6px;
+    width: 580px;
+    
+}
+
+tr.blue:hover
+{
+	background-color: 77DDDD;
+}
+
+tr.purple:hover
+{
+	background-color: BBBBEE;
+}
+
+.custom 
+{
+  cursor: url('Crosshair.png'), auto;
+}
