@@ -27,7 +27,14 @@ li
     font-size: 20;
 }
    
-
+h3.quote
+{
+	padding:1px;
+}
+.quotations
+{
+	padding-bottom: 10px;
+}
     .top 
 {
  
@@ -43,6 +50,35 @@ li
     font: icon;
     font-weight: 700;
     font-size: 20;
+}
+
+.weather
+{
+	padding:10px;
+}
+
+.weath
+{
+	font: icon;
+	padding: 0px 1px;
+	font-weight: 500;
+    font-size: 35;
+    padding-bottom: 1px;
+}
+
+.maps
+{
+	margin: auto;
+	padding: 0px;
+	padding-bottom: 20px;
+}
+.weath2
+{
+	font: icon;
+
+	font-weight: 500;
+    font-size: 25;
+    padding-bottom: 1px;
 }
 
 .footButton 
