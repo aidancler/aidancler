@@ -1,0 +1,32 @@
+body
+{
+	background-color: #6b66ad;
+	text-align: center;
+	border: 3px solid black;
+	padding-top: 50px;
+	padding-bottom: 1100px;
+	padding-left:10px;
+	padding-right:10px;
+  font: icon;
+  border: 3px solid black;
+	box-shadow: 0 0 10px 1px black;
+}
+
+h1
+{
+font-size: 40px;
+}
+
+h2
+{
+
+	font-size: 50px;
+}
+
+
+hr{
+
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px black;
+}
